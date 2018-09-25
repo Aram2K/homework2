@@ -11,7 +11,7 @@ if (a/2 || true) {
 alert (a);
 }
 
-if (5*(InputName.lenghth) < InputAge || InputName===Rouben) {
+if (5*(InputName.lenght) < InputAge || InputName==='Rouben') {
 	console.log('you are so lucky');
 	}
 	
